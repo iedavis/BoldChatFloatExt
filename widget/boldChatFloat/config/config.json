@@ -1,0 +1,34 @@
+{
+    "widgetDescriptorName": "WidgetTemplate",
+    "properties": [
+
+        {
+            "id": "bcAccountID",
+            "type": "stringType",
+            "name": "bcAccountID",
+            "labelResourceId": "bcAccountIDLabel",
+            "helpTextResourceId": "bcAccountIDHelpText"
+        },
+        {
+            "id": "bcWebsiteID",
+            "type": "stringType",
+            "name": "bcWebsiteID",
+            "labelResourceId": "bcWebsiteIDLabel",
+            "helpTextResourceId": "bcWebsiteIDHelpText"
+        },
+        {
+            "id": "bcInvitationID",
+            "type": "stringType",
+            "name": "bcInvitationID",
+            "labelResourceId": "bcInvitationIDLabel",
+            "helpTextResourceId": "bcInvitationIDHelpText"
+        },
+        {
+            "id": "bcButtonID",
+            "type": "stringType",
+            "name": "bcButtonID",
+            "labelResourceId": "bcButtonIDLabel",
+            "helpTextResourceId": "bcButtonIDHelpText"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "extensionID": "17a51306-46df-4389-8675-bf0fbcd82501",
+  "developerID": "999999",
+  "createdBy": "Ian Davis",
+  "name": "BoldChat Floating Invite Extension",
+  "description": "Displays a floating BoldChat invitation",
+  "version" :1,
+  "timeCreated": "2015-01-01"
+}

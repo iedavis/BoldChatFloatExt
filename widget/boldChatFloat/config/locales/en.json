@@ -1,0 +1,12 @@
+{
+  "resources" : {
+	"bcAccountIDLabel": "BoldChat Account ID",
+    "bcAccountIDHelpText": "Enter your BoldChat Account ID.",
+	"bcWebsiteIDLabel": "Website ID",
+    "bcWebsiteIDHelpText": "Enter your BoldChat Website ID.",
+	"bcInvitationIDLabel": "Invitation ID",
+    "bcInvitationIDHelpText": "Enter if you have multiple Invitations configured.",
+	"bcButtonIDLabel": "Button ID",
+    "bcButtonIDHelpText": "Enter if you have multiple Buttons configured."
+  }
+}
